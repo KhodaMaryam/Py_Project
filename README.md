@@ -7,10 +7,10 @@ Key features:
 1- We can control one vehicle's speed and direction (longitudinal and lateral)
 2- Six surrounding vehicles have similar speeds
 3- Three distinct lanes for maneuvers
-4- Data generation for different maneuver types, lane keeping, and lane changes to right and left
+4- Data generation for different maneuver types, lane keeping, and lane changes to the right and left
 
 The simulation records:
 
-  - Controlled vehicle lateral and longitudinal positions and velocity and acceleration 
+  - Controlled vehicle lateral and longitudinal positions and velocity, and acceleration 
   - Relative distances between vehicles
   - Timestamps
