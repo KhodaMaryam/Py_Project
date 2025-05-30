@@ -1,2 +1,2 @@
-# Py_Project
+# Pygame_Project
 # 
